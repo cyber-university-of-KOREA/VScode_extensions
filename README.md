@@ -1,4 +1,4 @@
-# VScode_extensions
+# Recommended extensions for VSCode
 Good extensions for VScode
 
 extensions name|Search|example|
