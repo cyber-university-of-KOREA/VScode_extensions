@@ -28,6 +28,6 @@ extensions name|Search|example|
 - ROS & ROS2
 - Java
 - Maven for Java
-- GitHub Copilot
+- GitHub Copilot [유료]
   
 
