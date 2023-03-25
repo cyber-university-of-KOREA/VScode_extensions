@@ -25,7 +25,6 @@ extensions name|Search|example|
 - Arduino
 - Jupyter
 - Docker
-- ROS & ROS2
 - Java
 - Maven for Java
 - GitHub Copilot [유료],(有料)
